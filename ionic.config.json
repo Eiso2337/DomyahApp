@@ -1,0 +1,7 @@
+{
+  "name": "DomyahApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
